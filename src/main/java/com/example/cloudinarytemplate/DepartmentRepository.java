@@ -2,6 +2,5 @@ package com.example.cloudinarytemplate;
 
 import org.springframework.data.repository.CrudRepository;
 
-public interface ActorRepository extends CrudRepository<Actor, Long> {
-
+public interface DepartmentRepository extends CrudRepository<Department, Long> {
 }
